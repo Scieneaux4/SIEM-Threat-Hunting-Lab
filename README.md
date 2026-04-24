@@ -50,6 +50,16 @@ The workflow demonstrates how analysts:
 4. Determine incident severity
 
 Screenshots:
-(screenshots/baseline-traffic.png)
+Baseline Traffic Analysis
+![Baseline Traffic](./baselinetraffic.png)
+
+Malware Detection Event
+![Malware Event](./malware-event.png)
+
+Malicious IP Investigation
+![Malicious IP](./malicious-ip.png)
+
+Download Activity Evidence
+![Download Activity](./download-activity.png)
 
 
