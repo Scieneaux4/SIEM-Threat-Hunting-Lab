@@ -53,7 +53,7 @@ Screenshots:
 Baseline Traffic Analysis
 ![Baseline Traffic](./baselinetraffic.png)
 
-Malware Detection Event
+This screenshot shows the top external IPs contacted by the infected host, highlighting abnormal outbound patterns.
 ![Malware Event](./malware-event.png)
 
 Malicious IP Investigation
