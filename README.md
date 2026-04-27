@@ -1,4 +1,4 @@
-SIEM Threat Hunting Lab
+SIEM Threat Hunting Project
 
 This project demonstrates a SIEM-based threat hunting investigation using Splunk and the BOTS dataset.
 The goal was to simulate real SOC analyst behavior by identifying suspicious activity, analyzing network traffic, and investigating potential malware infections.
