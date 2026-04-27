@@ -1,6 +1,6 @@
 SIEM Threat Hunting Project
 
-This project demonstrates a SIEM-based threat hunting investigation using Splunk and the BOTS dataset.
+This project simulates a SIEM based threat hunting investigation using Splunk and the BOTS dataset.
 The goal was to simulate real SOC analyst behavior by identifying suspicious activity, analyzing network traffic, and investigating potential malware infections.
 
  Skills Demonstrated
@@ -10,10 +10,10 @@ The goal was to simulate real SOC analyst behavior by identifying suspicious act
 - Indicator pivoting (IP-based analysis)
 - SOC incident response workflow
 
-Investigation Process
+Investigation Workflow
 
 1. Identify Suspicious Activity
-SPL:
+Initial detection query:
 index="bots" malware
 - Identified infected host: 192.168.250.100
 
